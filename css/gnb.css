@@ -206,7 +206,7 @@ hr{
     top: 133px;
 }
 .profile-image{
-    background: linear-gradient(to bottom, transparent, grey), url("/image/profile.JPG");
+    background: linear-gradient(to bottom, transparent, grey), url("../image/profile.JPG");
     width: 100%;
     height: 100%;
 
